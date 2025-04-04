@@ -1,0 +1,4 @@
+2025-04-04 10:14:10.912604 - Received CBT.V508.FILE468.PDS from FILE468.XMI 
+2025-04-04 10:14:10.913218 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE468.PDS, moved to PDS/$$$#DATE
+2025-04-04 10:14:10.913382 - Found @FILE468.txt (text/plain) in CBT.V508.FILE468.PDS, moved to PDS/@FILE468
+2025-04-04 10:14:10.913530 - Found DUMMY.txt (text/plain) in CBT.V508.FILE468.PDS, moved to PDS/DUMMY
